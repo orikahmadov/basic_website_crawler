@@ -10,7 +10,7 @@ def main (): # main function
     #import all modules for sending request and parsing response one line
 
     terminated =  False #terminated is a boolean variable to check if the program is terminated or not
-    options = ["Crawl all paths","Quit"] #options for the user to choose from
+    options = ["Crawl the website ","Quit"] #options for the user to choose from
     while not terminated: #while loop to keep the progr
         #ask the user to choose an option
         print("Choose an option: ")
