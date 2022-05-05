@@ -1,4 +1,5 @@
 """Command line interface for search_Dom. 
+Written by Orik with LOVE :=)
  """
 
 
